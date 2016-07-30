@@ -1,6 +1,6 @@
 {
   "name": "Markdown",
   "tagline": "markdown on my Mac to store some files",
-  "body": "# Notes\r\n## There are some notes when I do some reading\r\n***\r\n## My name is Wu Jinsheng. I love running and reading.\r\n## Email: \r\n>### 15720069066@sina.cn\r\n>### 2508109467@qq.com\r\n\r\n## Profession\r\n>### coder",
+  "body": "# Info\r\n## There are some notes when I do some reading\r\n***\r\n## Name\r\n>### Wu Jinsheng\r\n\r\n## Habit\r\n>### I love running and reading.\r\n\r\n## Email: \r\n>### 15720069066@sina.cn\r\n>### 2508109467@qq.com\r\n\r\n## Profession\r\n>### coder\r\n>### writer",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
